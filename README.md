@@ -135,7 +135,7 @@ Após o scan ser finalizado, podemos ver inicialmente o IP do site atrelado ao d
 
 ![urlscan imagem 1](/img/urlscan.jpeg)
 
-Mais abaixo, é mostrado todas as sub-requisições feitas para carregar a página, os IPs desses endpoints, a quem pertence, e seus respectivos países. Há sites que, para carregar a página, fazem múltiplas sub-requisições que trazem partes diferentes, como scripts de anunciantes, rastreamento comportamento, marketing etc.
+Mais abaixo, são mostradas todas as sub-requisições feitas para carregar a página, os IPs desses endpoints, a quem pertence, e seus respectivos países. Há sites que, para carregar a página, fazem múltiplas sub-requisições que trazem partes diferentes, como scripts de anunciantes, rastreamento de comportamento, marketing etc.
 
 ![urlscan imagem 2](/img/urlscan2.jpeg)
 
