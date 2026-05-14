@@ -1,4 +1,4 @@
-# 🛡️ Email Header Analysis: Autenticidade e Prevenção contra Phishing
+# 🛡️ E-mail Header Analysis: Autenticidade e Prevenção contra Phishing
 
 Este projeto foca na análise de cabeçalhos de e-mail para verificar 
 a autenticidade do remetente e identificar indicadores de phishing.
